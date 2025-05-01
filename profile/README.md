@@ -8,14 +8,14 @@ The Open Waters Initiative is a hands-on, open-source engineering project where 
 
 This project was created under the [IAAC Engineering Club](https://www.linkedin.com/company/iaac-engineering-club/?viewAsMember=true), a student-led initiative that blends architecture and engineering into tangible, mission-driven education. 
 
-This initiative is possible thanks to the [IAAC Engineering Club Contributors]()
+This initiative is possible thanks to the [IAAC Engineering Club Contributors](https://github.com/IaaC-Engineering-Club/reports/blob/main/CONTRIBUTORS.md)
 
 ## Documentation
-* [Preliminary Design Review (PDR) - Feb 2025]()
+* [Preliminary Design Review (PDR) - Feb 2025](https://github.com/IaaC-Engineering-Club/reports/blob/main/Preliminary-Design-Review-Feb2025.pdf)
 * 
 
 ## Software Packages:
-* [Vision Based Navigation]()
+* [Vision Based Navigation](https://github.com/IaaC-Engineering-Club/software_vision)
 
 ## 🌍 Who is this for?
 * Students & educators interested in robotics or marine systems
