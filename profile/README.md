@@ -6,9 +6,9 @@ An open-source, student-built autonomous surface vessel for learning, experiment
 
 The Open Waters Initiative is a hands-on, open-source engineering project where students — many with no formal engineering background — design and build an autonomous ship using salvaged materials, off-the-shelf electronics, and open tools. Our goal is to democratize access to real-world autonomous systems, starting with the water. 
 
-This project was created under the [IAAC Engineering Club](https://www.linkedin.com/company/iaac-engineering-club/?viewAsMember=true), a student-led initiative that blends architecture and engineering into tangible, mission-driven education. 
+This project was created under the [NODE Engineering Club](https://www.linkedin.com/company/iaac-engineering-club/?viewAsMember=true), a student-led initiative that blends architecture and engineering into tangible, mission-driven education. 
 
-This initiative is possible thanks to the [IAAC Engineering Club Contributors](https://github.com/IaaC-Engineering-Club/reports/blob/main/CONTRIBUTORS.md)
+This initiative is possible thanks to the [NODE Engineering Club Contributors](https://github.com/IaaC-Engineering-Club/reports/blob/main/CONTRIBUTORS.md)
 
 ## Documentation
 * [Preliminary Design Review (PDR) - Feb 2025](https://github.com/IaaC-Engineering-Club/reports/blob/main/Preliminary-Design-Review-Feb2025.pdf)
