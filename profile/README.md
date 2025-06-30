@@ -12,10 +12,11 @@ This initiative is possible thanks to the [NODE Engineering Club Contributors](h
 
 ## Documentation
 * [Preliminary Design Review (PDR) - Feb 2025](https://github.com/IaaC-Engineering-Club/reports/blob/main/Preliminary-Design-Review-Feb2025.pdf)
-* 
+* [Final Design Review (PDR) - Feb 2025](https://github.com/IaaC-Engineering-Club/reports/blob/main/Final-Design-Review-Jun2025.pdf)
 
 ## Software Packages:
 * [Vision Based Navigation](https://github.com/IaaC-Engineering-Club/software_vision)
+* Click on repositories for more
 
 ## 🌍 Who is this for?
 * Students & educators interested in robotics or marine systems
