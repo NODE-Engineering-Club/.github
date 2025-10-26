@@ -1,4 +1,4 @@
-# 🌊 The Open Waters Initiative
+# The Open Waters Initiative
 
 An open-source, student-built autonomous surface vessel for learning, experimentation, and global sharing.
 
